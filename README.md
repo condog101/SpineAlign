@@ -16,10 +16,10 @@ This paper presents the first realworld markerless tracking dataset. Due to size
 ![Demo](PaperGifs/newgifs/predictgif.gif)
 
 <p align="center">
-  <img src="PaperGifs/newgifs/zoomgif.gif" width="300" />
-  <img src="PaperGifs/newgifs/pointgif.gif" width="300" />
+  <img src="PaperGifs/newgifs/zoomgif.gif" height="200" />
+  <img src="PaperGifs/newgifs/pointgif.gif" height="200" />
 </p>
 <p align="center">
-  <img src="PaperGifs/newgifs/labelgif.gif" width="300" />
-  <img src="PaperGifs/newgifs/predictgif.gif" width="300" />
+  <img src="PaperGifs/newgifs/labelgif.gif" height="200" />
+  <img src="PaperGifs/newgifs/predictgif.gif" height="200" />
 </p>
