@@ -12,7 +12,8 @@ This is the accompanying code repository for the paper "Towards Markerless Intra
 
 For any questions regarding this repository or paper, please contact Connor (cd1723{at}ic[dot]ac[dot]uk)
 
-This paper presents the first realworld markerless tracking dataset. Due to size constraints of the collected .pcd frames, this dataset is currently hosted locally. We are trying to find a better hosting solution, however if you would like access please get in touch.
+This paper presents the first realworld markerless tracking dataset. 
+The accompanying dataset can be found [here](https://huggingface.co/datasets/zcbecda/SpineAlign/tree/main).
 
 
 
