@@ -1,5 +1,11 @@
 # SpineAlign
-This is the accompanying code repository for the paper "Towards Markerless Intraoperative Tracking of Deformable Spine Tissue", by Connor Daly[1], Dr Elettra Marconi[2], Professor Marco Riva[2], Dr Jinendra Ekanayake[3], Professor Daniel Elson[1] and Professor Ferdinando Rodriguez y Baena[1].
+
+<p align="center">
+  <img src="PaperGifs/newgifs/zoomgif.gif" height="300" />
+  <img src="PaperGifs/newgifs/pointgif.gif" height="300" />
+</p>
+
+This is the accompanying code repository for the paper "Towards Markerless Intraoperative Tracking of Deformable Spine Tissue", by Connor Daly[1], Dr Elettra Marconi[2], Professor Marco Riva[2], Dr Jinendra Ekanayake[3], Professor Daniel Elson[1] and Professor Ferdinando Rodriguez y Baena[1].<br>
 [1] Imperial College London
 [2] Humanitas University
 [3] Stanford University
@@ -12,10 +18,7 @@ This paper presents the first realworld markerless tracking dataset. Due to size
 
 
 
-<p align="center">
-  <img src="PaperGifs/newgifs/zoomgif.gif" height="300" />
-  <img src="PaperGifs/newgifs/pointgif.gif" height="300" />
-</p>
+
 <p align="center">
   <img src="PaperGifs/newgifs/labelgif.gif" height="300" />
   <img src="PaperGifs/newgifs/predictgif.gif" height="300" />
