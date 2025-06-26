@@ -10,11 +10,16 @@ This is the accompanying code repository for the paper "Towards Markerless Intra
 [2] Humanitas University
 [3] Stanford University
 
-For any questions regarding this repository or paper, please contact Connor (cd1723{at}ic[dot]ac[dot]uk)
+##Contact :email:
+For any questions regarding this repository or paper, please contact cd1723{at}ic[dot]ac[dot]uk
+
+##About
 
 This paper presents the first attempt at crossing the cadaver-to-clinical gap for markerless tracking.
 The accompanying dataset can be found [here](https://huggingface.co/datasets/zcbecda/SpineAlign/tree/main).
 After cloning this repository, create a CT_DATA folder within SpineAlign, and add the files index_data_map_new_with_meshes_combined.pkl and folder CT_PROXY_LABELS from huggingface to this folder.
+
+The training method for *CorrespondNet* is found in spine_align_network/networks/CorrespondNet.py.
 
 
 
