@@ -10,10 +10,10 @@ This is the accompanying code repository for the paper "Towards Markerless Intra
 [2] Humanitas University
 [3] Stanford University
 
-##Contact :email:
+## Contact :email:
 For any questions regarding this repository or paper, please contact cd1723{at}ic[dot]ac[dot]uk
 
-##About
+## About
 
 This paper presents the first attempt at crossing the cadaver-to-clinical gap for markerless tracking.
 The accompanying dataset can be found [here](https://huggingface.co/datasets/zcbecda/SpineAlign/tree/main).
